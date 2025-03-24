@@ -64,9 +64,10 @@ tools:context=".MainActivity4">
         android:text="Divide" />
 </LinearLayout>
 
-<TextView
-    android:id="@+id/textView2"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="Result" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Result"
+        android:textSize="24sp" />
 </LinearLayout>
